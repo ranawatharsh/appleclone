@@ -1,0 +1,262 @@
+nav li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    overflow-y: hidden;
+    
+}
+nav{
+    text-align: center;
+    width: 100%;
+    height: 5vh;
+    background-color: rgb(237, 237, 237);
+    margin-top: none;
+    padding-top: none;
+    overflow: hidden;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+    text-align: center;
+}
+.logo img{
+    position: absolute;
+    height: 3vh;
+    left: 60vh;
+    margin-top: 8px;
+}
+.srch img{
+    position: absolute;
+    height: 2vh;
+    margin-top: 11px;
+    right: 60vh;
+}
+.shop img{
+    position: absolute;
+    height: 2.5vh;
+    margin-top: 8px;
+    right: 50vh;
+
+}
+.phones{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(255, 255, 255);
+}
+.emi{
+    width: 100%;
+    height: 5vh;
+    text-align: center;
+    background-color: rgb(237, 237, 237);
+    
+}
+.emi p{
+    padding-top: 5px;
+}
+.heroimg img{
+    position: relative;
+    height: 750px;
+    width: 1200px;
+    z-index: 1;
+    padding-top: 55vh;
+}
+.heroimg{
+    width: 100%;
+    
+    background-color: black;
+    text-align: center;
+
+
+}
+.hero p{
+    position: absolute;
+    color: azure;
+    z-index: 2;
+    text-align: center;
+  
+
+    top: 40%;
+    font-size: 3vh;
+    
+    
+}
+
+    
+
+.hero h2{
+    position: absolute;
+    
+    z-index: 2;
+    text-align: center;
+    color: azure;
+    top: 45vh;
+
+
+    font-size: 4vh;
+ 
+
+
+    
+    
+    
+}
+.hero h1{
+    position: absolute;
+    background: linear-gradient(to bottom ,rgb(2, 0, 36,1) 0%, rgba(240,159,255,1) 35%, rgba(80,34,109,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+   
+    top: 25vh;
+    
+    
+  
+    font-size: 7vh;
+ 
+
+    z-index: 2;
+}
+.text2 p{
+    position: absolute;
+    z-index: 2;
+   
+    color: aliceblue;
+    top: 60vh;
+    background-color: rgb(0, 0, 0);
+    
+    text-align: center;
+    left: 0%;
+    right: 0%;
+}
+.hero h1, h2, p{
+    position: relative;
+    
+    left: 0%;
+    right: 0%;
+
+}
+.divtext3 h2{
+    position: absolute;
+    top: 65vh;
+}
+.butn1 button{
+    position: absolute;
+    z-index: 3;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 73vh;
+    left: 85vh;
+    border-radius: 60%/ 50px;
+    color: rgb(255, 255, 255);
+    background-color: #0071E3;
+    font-size: 18px;
+    
+}
+.text4 a{
+    position: absolute;
+    text-decoration: none;
+    z-index: 2;
+    font-size: 23px;
+    top: 73vh;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0071E3;
+
+}
+.text4 a:hover{
+    text-decoration: underline;
+}
+.section2{
+    margin-top: 10px;
+    width: 100%;
+    height: 820px;
+    background-color:#FBFBFD;
+}
+.heroimg2{
+    position: absolute;
+    right: 30vh;    
+}
+.seimg{
+    position: absolute;
+    left: 50vh;
+    margin-top: 18%;
+}
+.text5 h1{
+    position: absolute;
+    left: 36vh;
+    margin-top: 20%;
+    font-size: 50px;
+    background: linear-gradient(to right ,#2542A5 0%, #2E4EBD 35%, #385FDA 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+.text6 h1{
+    position: absolute;
+    left: 37vh;
+    margin-top: 23%;
+    font-size: 50px;
+    background: linear-gradient(to right ,#2542A5 0%, #2E4EBD 35%, #385FDA 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.section2 p{
+    position: absolute;
+    margin-top: 29%;
+    right: 90vh;
+    font-size: 3vh;
+}
+.butn2 button{
+    position: absolute;
+    z-index: 3;
+    left: 42vh;
+    top: 1950px;
+    
+    
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ 
+    border-radius: 60%/ 50px;
+    color: 4rgb(255, 255, 255);
+    background-color: #0071E3;
+    font-size: 18px;
+}
+.text7{
+    position: absolute;
+    text-decoration: none;
+    z-index: 2;
+    font-size: 23px;
+    left: 53vh;
+    top: 1950px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0071E3;
+}
+.texth1 h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.images img{
+    padding-left: 30px;
+    padding-right: 30px;
+}
